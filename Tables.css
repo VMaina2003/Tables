@@ -1,0 +1,22 @@
+.Tables th  {
+    border: 2px solid brown;
+    padding: 10px;
+    text-align: center; 
+    background-color: rgb(135, 244, 244);
+} 
+.Tables td {
+     border: 2px solid brown;
+    padding: 10px;
+    text-align: center;
+    border-radius: ;
+}
+.Tables tr:hover {
+  background-color: #f0f0f0; 
+  cursor: pointer;
+}
+.Tables {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 100px auto;
+}
+     
